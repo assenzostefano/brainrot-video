@@ -3,3 +3,4 @@ assets/font/*
 assets/img/*
 assets/background_video/*
 assets/output/*
+__pycache__/
